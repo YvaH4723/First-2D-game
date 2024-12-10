@@ -4,3 +4,9 @@ The game challenges players to navigate a series of progressively difficult leve
 The primary objective was to deliver a smooth, fun, and visually appealing gameplay experience.
 Game Engine: Unity
 Programming Language: C#
+Key features:
+- Player movement mechanics (e.g., jumping, running).
+- Collision detection with obstacles and platforms.
+- Level design with increasing difficulty.
+- Interactive UI, including score tracking and restart functionality.
+- Sound effects and animations to enhance user engagement.
